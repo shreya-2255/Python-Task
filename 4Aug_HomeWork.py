@@ -14,14 +14,14 @@ print("dob = ", dob)
 print('College = "' + college + '"')
 print("Blood Group = ", blood_group)
 
-Output: 
------ My ID Card -----
-Name = Smruti
-Age = 21
-City = "Pune"
-dob =  22/11/2004
-College = "TKA"
-Blood Group =  A+
+# Output: 
+# ----- My ID Card -----
+# Name = Smruti
+# Age = 21
+# City = "Pune"
+# dob =  22/11/2004
+# College = "TKA"
+# Blood Group =  A+
            
 # Task 2: Find Data Type
 
@@ -37,12 +37,12 @@ print(type(c))
 print(type(d))
 print(type(e)) 
 
-Output: 
-<class 'int'>
-<class 'float'>
-<class 'str'>
-<class 'bool'>
-<class 'complex'>
+# Output: 
+# <class 'int'>
+# <class 'float'>
+# <class 'str'>
+# <class 'bool'>
+# <class 'complex'>
 
 # Task 3: Memory Detective
 
@@ -54,7 +54,7 @@ print(id(v1))
 print(id(v2))
 print(id(v3))
 
-Output: 
-140731611599064
-140731611602264
-140731611599064
+# Output: 
+# 140731611599064
+# 140731611602264
+# 140731611599064
