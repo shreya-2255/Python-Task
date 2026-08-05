@@ -15,6 +15,16 @@ print('College = "' + college + '"')
 print("Blood Group = ", blood_group)
 
 print(" ")
+
+Output: 
+----- My ID Card -----
+Name = Smruti
+Age = 21
+City = "Pune"
+dob =  22/11/2004
+College = "TKA"
+Blood Group =  A+
+           
 # Task 2: Find Data Type
 
 a =  25
@@ -30,6 +40,14 @@ print(type(d))
 print(type(e)) 
 
 print(" ")
+
+Output: 
+<class 'int'>
+<class 'float'>
+<class 'str'>
+<class 'bool'>
+<class 'complex'>
+
 # Task 3: Memory Detective
 
 v1 = 100
@@ -39,3 +57,8 @@ v3 = 100
 print(id(v1))
 print(id(v2))
 print(id(v3))
+
+Output: 
+140731611599064
+140731611602264
+140731611599064
