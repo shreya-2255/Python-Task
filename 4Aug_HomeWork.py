@@ -14,8 +14,6 @@ print("dob = ", dob)
 print('College = "' + college + '"')
 print("Blood Group = ", blood_group)
 
-print(" ")
-
 Output: 
 ----- My ID Card -----
 Name = Smruti
@@ -38,8 +36,6 @@ print(type(b))
 print(type(c))
 print(type(d))
 print(type(e)) 
-
-print(" ")
 
 Output: 
 <class 'int'>
